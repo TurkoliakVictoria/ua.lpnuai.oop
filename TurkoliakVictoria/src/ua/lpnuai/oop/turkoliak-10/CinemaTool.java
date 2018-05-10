@@ -1,4 +1,4 @@
-package src.ua.lpnuai.oop.turkoliak-10;
+package ua.lpnuai.oop.turkoliak-10;
 public class CinemaTool {
    private String name;
    private String type;
