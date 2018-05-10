@@ -33,7 +33,7 @@ public class Main{
         String key = new String();
 
         /* Processes user's choices. */
-        while (!key.equals("5")) {
+        while (!key.equals("4")) {
 
             key = reader.readLine();
 
