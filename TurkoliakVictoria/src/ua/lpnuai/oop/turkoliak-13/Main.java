@@ -1,3 +1,4 @@
+package ua.lpnuai.oop.turkoliak-13;
 import java.util.Arrays;
 import java.util.Scanner;
 
